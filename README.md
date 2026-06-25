@@ -26,16 +26,16 @@ This system answers that by providing a simple desktop application for both cust
 ## Screenshots
 
 **Login Screen**
-![Login](screenshots/Login_vehicle.png)
+![Login](Login_vehicle.png)
 
 **Customer Dashboard**
-![Home](screenshots/Home_vehicle.png)
+![Home](Home_vehicle.png)
 
 **Vehicle Availability (Customer View)**
-![Available Vehicles](screenshots/Available_vahicle.png)
+![Available Vehicles](Available_vahicle.png)
 
 **Administrator Dashboard**
-![Admin](screenshots/Administrator_Vehicle.png)
+![Admin](Administrator_Vehicle.png)
 
 ---
 
